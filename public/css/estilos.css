@@ -1,0 +1,56 @@
+body{
+    background: #ffffff;
+}
+
+#side_nav{
+    background-color: #000000;
+    min-width: 250px;
+    max-width: 250px;
+}
+
+.content{
+    min-height: 100vh;
+    display: flex;
+    background-color: #eeeeee;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: #eeeeee;
+}
+
+
+/*font-family: 'Poor Story', cursive;*/
+
+hr.h-color{
+    background: #eee;
+}
+
+.sidebar li a{
+    color: #eee;
+}
+
+.sidebar li:hover, .sidebar li a:hover{
+    background: white;
+    border-radius: 8px;
+    color: #000000;
+}
+.title{
+    margin-top:10px;
+    text-align: center;
+}
+.titlelibros{
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.logo img{
+    width: 10rem;
+    height: 10rem;
+
+
+}
+
+/* fin de diseño de form */
